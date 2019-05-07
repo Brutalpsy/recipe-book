@@ -10,12 +10,6 @@ export class HomeComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    for (let i = 1; i < 10; i++) {
-      alert('yo madafaka');
-
-
-
-    }
   }
 
 }
